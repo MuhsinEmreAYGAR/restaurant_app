@@ -1,0 +1,14 @@
+.about-us-text{
+    border:2px solid rgba(248, 249, 250, 0.534);
+    padding: 2vh;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: -10px 5px 100px rgba(10, 53, 100, 0.2);
+    background-color: #F8F9FA;
+}
+
+.restaurant-img{
+    border-radius: 15px;
+    width: 100%;
+    box-shadow: -10px 5px 100px rgba(10, 53, 100, 0.2);
+}
